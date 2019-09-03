@@ -1,5 +1,4 @@
-# powershell-sharepoint
-PowerShell scripts to automate Sharepoint farm deployment
+# PowerShell scripts to automate Sharepoint farm deployment
 
 ## Process
 - step 1: Enable-PingResponse.ps1 - opens the necessary firewall ports before the deployment
@@ -11,7 +10,7 @@ PowerShell scripts to automate Sharepoint farm deployment
 - repeats 1-5 steps on the second server
 
 ## Notes 
-- Uses AutoSPInstaller as a core
+- Uses AutoSPInstaller as a core https://autospinstaller.com/
 - SharePoint media files must be located in the S:\SP folder
 - Navigate to https://autospinstaller.com/FarmConfiguration to change/check XML config files before the deployment
 - Originally made for VMM templates
