@@ -13,7 +13,7 @@
 - Uses AutoSPInstaller as a core https://autospinstaller.com/
 - SharePoint media files must be located in the S:\SP folder
 - Navigate to https://autospinstaller.com/FarmConfiguration to change/check XML config files before the deployment
-- Originally made for VMM templates
+- Originally made for VMM templates. Tested with VMM 2016/Sharepoint 2013
 - Thanks for commits and stars! Happy deployment!
 
 
